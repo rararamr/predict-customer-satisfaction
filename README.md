@@ -1,0 +1,1 @@
+Our program leverages machine learning algorithms, specifically Decision Trees and Random Forests, to analyze customer behavior and feedback, providing accurate predictions of customer satisfaction in e-commerce, enabling businesses to enhance user experience and optimize decision-making processes.
